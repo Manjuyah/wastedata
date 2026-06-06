@@ -5,5 +5,12 @@
         "fill_level": 2,
         "urgency": 5,
         "timestamp": "2026-06-06 23:10:07"
+    },
+    {
+        "user_id": "JORELE",
+        "location": "Unassigned Territory Sector",
+        "fill_level": 80,
+        "urgency": 5,
+        "timestamp": "2026-06-07 00:59:10"
     }
 ]
