@@ -21,5 +21,14 @@
         "urgency": 4,
         "timestamp": "2026-06-07 01:30:24",
         "dev_reply": null
+    },
+    {
+        "ticket_id": "TKT-1780770341",
+        "user_id": "USER_001",
+        "location": "Sampaloc, Manila",
+        "fill_level": 80,
+        "urgency": 4,
+        "timestamp": "2026-06-07 02:25:41",
+        "dev_reply": null
     }
 ]
